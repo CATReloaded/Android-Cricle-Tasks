@@ -12,12 +12,13 @@ number divided by 3 and 5 finish your program.
 
 Bonus :
 In programs when user enter nothing :
-# First program start scoop from 1 to 98
-# Second program start from 1 to 30
+# First program start scoop from 1 to 98.
+# Second program start from 1 to 30.
  
 Without using if or any statement
 ```
-- **Topics** : Attributes types , arithmetic operators , assignment operators , comparison operators , statments , loops and null type 
+- **Topics** : Attributes types , arithmetic operators , assignment operators , comparison operators , statments , 
+  loops and null type .
 - **Material** : [Playlist](https://www.youtube.com/watch?v=Lcu-n6yaMKM&list=PLXjbGq0ERjFriC0igmYE9qUwwJfEHGJ8H&index=13)
   
 **Hero of this week** -> [Bassam Yassin](https://github.com/Bassam-devAndroid)
