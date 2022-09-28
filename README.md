@@ -1,5 +1,7 @@
-## Week 2 in Kotlin tasks 
-**Task** : [Kotlin task 2](https://drive.google.com/file/d/1d7rCerHvTY-fJifs9mCDtY2gblkfZBWZ/view?usp=sharing)
+## Week 2 in Kotlin 
+
+### This is the 2 task in the Kotlin phase.
+
 ``` Kotlin Basic Task
 
 1.Write a program to count numbers divided by
