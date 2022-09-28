@@ -2,8 +2,7 @@
 </br>
 
 ### This is the 2nd task in the Kotlin phase.
-<br>
-</br>
+
 ``` Kotlin Basic Task
 
 1.Write a program to count numbers divided by
@@ -19,6 +18,9 @@ In programs when user enter nothing :
  
 Without using if or any statement
 ```
+<br>
+</br>
+
 - **Topics** : Attributes types , arithmetic operators , assignment operators , comparison operators , statments , 
   loops and null type .
 - **Material** : [Playlist](https://www.youtube.com/watch?v=Lcu-n6yaMKM&list=PLXjbGq0ERjFriC0igmYE9qUwwJfEHGJ8H&index=13)
