@@ -1,4 +1,4 @@
-## Week 2 in Kotlin 
+## Week 1
 
 ### This is the 2nd task in the Kotlin phase.
 
