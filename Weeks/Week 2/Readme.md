@@ -5,8 +5,7 @@
 
 ``` Kotlin Basic Task
 
-1. Write your program to tell user what should he do
-today :
+1. Write your program to tell user what should he do today :
 Function take parameters (mood and weather)
  mood “Happy” and weather “Sunny” tell him “Go toswimming”
  mood “Happy” and weather “Rainy” tell him “Stayand watch your favorite film”
