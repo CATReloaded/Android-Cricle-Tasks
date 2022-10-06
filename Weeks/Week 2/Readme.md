@@ -28,9 +28,7 @@ val hello2 = {Hello()}
 println(hello1)
 println(hello2)
 
-Hint ( write question 2 response as a comment at the end of
-your program )
- 
+Hint ( write question 2 response as a comment at the end of your program )
 Without using if or any statement
 ```
 <br>
