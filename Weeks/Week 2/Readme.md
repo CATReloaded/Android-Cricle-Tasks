@@ -7,18 +7,18 @@
 
 1. Write your program to tell user what should he do today :
 Function take parameters (mood and weather)
- mood “Happy” and weather “Sunny” tell him “Go toswimming”
- mood “Happy” and weather “Rainy” tell him “Stayand watch your favorite film”
- mood “Happy” and weather “Mild” tell him “Go togym”
- mood “Sad” and weather “Sunny” tell him “Go toclub”
- mood “Sad” and weather “Rainy” tell him “Playgames on computer”
- mood “Sad” and weather “Mild” tell him “Call yourfriend and enjoy”
+* mood “Happy” and weather “Sunny” tell him “Go toswimming”
+* mood “Happy” and weather “Rainy” tell him “Stayand watch your favorite film”
+* mood “Happy” and weather “Mild” tell him “Go togym”
+* mood “Sad” and weather “Sunny” tell him “Go toclub”
+* mood “Sad” and weather “Rainy” tell him “Playgames on computer”
+* mood “Sad” and weather “Mild” tell him “Call yourfriend and enjoy”
 
 Function take output of first function and tell user
 the temperature :
- Sunny : “temperature from 35 to 50”
- Rainy : “temperature from 10 to 20”
- Sunny : “temperature from 20 to 35”
+* Sunny : “temperature from 35 to 50”
+* Rainy : “temperature from 10 to 20”
+* Sunny : “temperature from 20 to 35”
 Call this functions in main and when user enter nothing value set default in 
 function 1 : (mood : Happy , weather :Mild)
 ..................................
