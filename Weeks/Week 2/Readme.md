@@ -1,7 +1,7 @@
 
 ## Week 2
 
-### This is the 2nd task in the Kotlin phase.
+### This is the 3rd task in the Kotlin phase.
 
 ``` Kotlin Basic Task
 
