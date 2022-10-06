@@ -11,3 +11,4 @@
  ## Content
  - [Week 1](https://github.com/CATReloaded/Android-Cricle-Tasks/tree/master/Weeks/Week%201)
  - [Week 2](https://github.com/CATReloaded/Android-Cricle-Tasks/tree/master/Weeks/Week%202)
+ - [Week 3](https://github.com/CATReloaded/Android-Cricle-Tasks/tree/master/Weeks/Week%203)
