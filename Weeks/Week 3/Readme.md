@@ -1,7 +1,7 @@
 
 ## Week 3
 
-### This is the 4nd task in the Kotlin phase.
+### This is the 4th task in the Kotlin phase.
 
 ``` Kotlin OOP Task
 
