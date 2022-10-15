@@ -1,4 +1,4 @@
-## Android Circle Repository
+# Android Circle Repository
 
 **This repo is for the assignements solution for Android Circle.** 
 
