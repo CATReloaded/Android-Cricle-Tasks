@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactNameActivity">
+
+    <TextView
+        android:id="@+id/nameTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="Contact Name"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/firstNameET"
+        android:text="First Name"
+        android:textColor="#4455595C"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nameTV"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/lastNameET"
+        android:Text="Last Name"
+        android:textColor="#4455595C"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/firstNameET"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/sendNameButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lastNameET"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:text="Next" />
+</RelativeLayout>

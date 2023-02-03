@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FurnitureApp</string>
+    <string name="splash_text">Find Beautiful, Practical Furniture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_table">Tables</string>
+    <string name="category_chair">Chairs</string>
+    <string name="category_sofa">Sofas</string>
+    <string name="category_bed">Beds</string>
+    <string name="category_lampshade">lampshades</string>
+    <string name="category_bookcase">Bookcases</string>
+
+</resources>
