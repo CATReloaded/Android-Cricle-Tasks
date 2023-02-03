@@ -3,6 +3,7 @@
 ### This is the 2nd task in the Android Basic.
 
 
+
 ```Kotlin OOP Task
 
 
@@ -16,6 +17,14 @@ bonus :
 
 2- make a click sound when we click on an item
 ```
+
+
+
+https://user-images.githubusercontent.com/105871085/216716876-39d6c851-3a03-41f4-a947-27a64e31903e.mp4
+
+
+
+
 <br>
 </br>
 
