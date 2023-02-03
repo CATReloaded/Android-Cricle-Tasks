@@ -2,8 +2,8 @@
 
 ### This is the 2nd task in the Android Basic.
 
-```Kotlin OOP Task
 
+```Kotlin OOP Task
 
 
 
@@ -15,8 +15,6 @@ bonus :
 1- animate your Recycler View
 
 2- make a click sound when we click on an item
-
-
 ```
 <br>
 </br>
