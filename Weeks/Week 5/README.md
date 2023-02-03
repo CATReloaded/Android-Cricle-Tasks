@@ -18,7 +18,6 @@ bonus :
 ```
 <br>
 </br>
-
 - **Topics** : Recycler View , Media Player , Basic Navigation , Animated Recycler View 
 
 - **Material** : [Playlist](https://www.youtube.com/watch?v=Mc0XT58A1Z4)
